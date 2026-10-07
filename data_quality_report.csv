@@ -1,0 +1,2 @@
+row_count,duplicate_rows,missing_values,negative_quantities,negative_prices,missing_required_columns,invalid_dates,overall_status,issues
+1000000,0,0,0,0,[],0,PASS,[]
